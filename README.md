@@ -32,4 +32,4 @@ Email: alihaiderdats2004@gmail.com
 
 LinkedIn: www.linkedin.com/in/ali-haider-ml
 
-GitHub:[ github.com/alihaiderds](https://github.com/alihaider-ml)
+GitHub:(https://github.com/alihaider-ml)
